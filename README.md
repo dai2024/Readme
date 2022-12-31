@@ -8,6 +8,6 @@ I am ranked lower.
 
 can speak.\
 can talk.\
-can discuss.\
+can discuss.
 
 12 years old.
