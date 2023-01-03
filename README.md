@@ -19,7 +19,7 @@ Happy New Year
 - [Docker](https://www.docker.com/)
 - [Docker Blog](https://www.docker.com/blog/)
 
-2. Phishing aleart.
+2. Phishing aleart. -> Phishing alert.
 
 - review.
 
@@ -32,7 +32,7 @@ Happy New Year
 9 Clones 7 Unique cloners\
 20 Views 1 Unique visitors
 
-7:04 am 03/01/2023
+7:08 am 03/01/2023
 
 Referring sites\
 github.com	4 Views	1 Unique visitors
