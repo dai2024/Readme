@@ -26,12 +26,8 @@ Happy New Year
 
 3. ??
 ```
-"""
-This script runs the FlaskWebProject1 application using a development server.
-"""
-
-from os import environ
-from FlaskWebProject1 import app
+node -v
+npm -v
 ```
 
 5 Clones 5 Unique cloners\
@@ -39,10 +35,10 @@ from FlaskWebProject1 import app
 
 3:35 am 03/01/2023
 
-17 Clones 10 Unique cloners\
-27 Views 1 Unique visitors
+** Clones ** Unique cloners\
+** Views ** Unique visitors
 
-7:43 am 03/01/2023
+7:49 am 03/01/2023
 
 Referring sites\
 github.com	4 Views	1 Unique visitors
