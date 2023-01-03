@@ -18,3 +18,17 @@ Happy New Year
 14 Views 1 Unique visitors
 
 3:35 am 03/01/2023
+
+
+ 
+```
+/******************************************************************************\
+*       This is a part of the ... Source Code Samples.
+*       Copyright (C) 2021-2023 ... Corporation.
+*       All rights reserved.
+*       This source code is only intended as a supplement to
+*       ... Development Tools and/or ... documentation.
+*       See these sources for detailed information regarding the
+*       ... samples programs.
+\******************************************************************************/
+```
