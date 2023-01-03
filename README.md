@@ -33,6 +33,7 @@ site:go.dev defer
 - https://docs.github.com/en/actions
 - https://github.com/git/git
 - `git clone --depth 1 https://github.com/####/####.git` ?
+- `npm -v`
 
 5 Clones 5 Unique cloners\
 14 Views 1 Unique visitors
