@@ -36,6 +36,7 @@ site:go.dev defer
 - `npm -v`
 - https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions
 - https://docs.github.com/en/get-started/learning-about-github/githubs-products
+- https://docs.github.com/ja/get-started/learning-about-github/github-language-support
 - https://docs.github.com/en
 
 5. leaned cost?
@@ -54,7 +55,7 @@ site:go.dev defer
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-9:34 am 03/01/2023
+9:51 am 03/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
