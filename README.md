@@ -29,7 +29,10 @@ Happy New Year
 site:go.dev defer
 ```
 
-4. museum?
+4. museum? private -> public 
+- https://docs.github.com/en/actions
+- https://github.com/git/git
+- `git clone --depth 1 https://github.com/####/####.git` ?
 
 5 Clones 5 Unique cloners\
 14 Views 1 Unique visitors
@@ -39,10 +42,10 @@ site:go.dev defer
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-8:17 am 03/01/2023
+9:10 am 03/01/2023
 
 Referring sites\
-github.com	4 Views	1 Unique visitors
+*.com	* Views	* Unique visitors
  
 ```
 /******************************************************************************\
