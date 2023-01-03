@@ -24,10 +24,9 @@ Happy New Year
 - Vagrant?
 - Git for Windows!?
 
-3. ??
+3. defer -> be turned down -> blurred, blur
 ```
-node -v
-npm -v
+site:go.dev defer
 ```
 
 5 Clones 5 Unique cloners\
@@ -38,7 +37,7 @@ npm -v
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-7:49 am 03/01/2023
+8:12 am 03/01/2023
 
 Referring sites\
 github.com	4 Views	1 Unique visitors
