@@ -24,6 +24,15 @@ Happy New Year
 - Vagrant?
 - Git for Windows!?
 
+3. ??
+```
+"""
+This script runs the FlaskWebProject1 application using a development server.
+"""
+
+from os import environ
+from FlaskWebProject1 import app
+```
 
 5 Clones 5 Unique cloners\
 14 Views 1 Unique visitors
@@ -33,7 +42,7 @@ Happy New Year
 17 Clones 10 Unique cloners\
 27 Views 1 Unique visitors
 
-7:34 am 03/01/2023
+7:43 am 03/01/2023
 
 Referring sites\
 github.com	4 Views	1 Unique visitors
