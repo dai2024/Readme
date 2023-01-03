@@ -16,7 +16,7 @@ Happy New Year
 
 1. Are you going to take a vacation next month?
 
-- [Docker](https://www.docker.com/)\
+- [Docker](https://www.docker.com/)
 - [Docker Blog](https://www.docker.com/blog/)
 
 2. Phishing aleart.
