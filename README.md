@@ -22,6 +22,7 @@ Happy New Year
 - laravel begginer?
 - Oracle VM VirtualBox?
 - Vagrant?
+- Git for Windows!?
 
 
 5 Clones 5 Unique cloners\
@@ -29,10 +30,10 @@ Happy New Year
 
 3:35 am 03/01/2023
 
-9 Clones 7 Unique cloners\
-20 Views 1 Unique visitors
+17 Clones 10 Unique cloners\
+27 Views 1 Unique visitors
 
-7:29 am 03/01/2023
+7:34 am 03/01/2023
 
 Referring sites\
 github.com	4 Views	1 Unique visitors
