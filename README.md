@@ -39,6 +39,9 @@ site:go.dev defer
 - https://docs.github.com/en
 
 5. leaned cost?
+- https://www.swift.org/documentation/
+- https://developer.apple.com/swift/resources/
+- https://go.dev/tour/welcome/1
 - ...
 
 
@@ -51,7 +54,7 @@ site:go.dev defer
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-9:26 am 03/01/2023
+9:34 am 03/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
