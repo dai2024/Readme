@@ -1,5 +1,6 @@
 # Readme
 
+
 You get their facts and opinions right, and you can get to the point. \
 You can listen correctly to someone's facts and opinions, and you can get to the point.\
 You can listen correctly to other people's facts and opinions, and you can speak to the point.
@@ -14,7 +15,7 @@ can discuss.
 
 Happy New Year
 
-1. Are you going to take a vacation next month?
+1. I read english now.
 
 2. Phishing aleart. -> Phishing alert.
 
@@ -56,19 +57,9 @@ site:go.dev defer
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-10:00 am 03/01/2023
+2:31 am 04/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
  
-```
-/******************************************************************************\
-*       This is a part of the ... Source Code Samples.
-*       Copyright (C) 2021-2023 ... Corporation.
-*       All rights reserved.
-*       This source code is only intended as a supplement to
-*       ... Development Tools and/or ... documentation.
-*       See these sources for detailed information regarding the
-*       ... samples programs.
-\******************************************************************************/
-```
+hacking test ok
