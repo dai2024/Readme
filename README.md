@@ -47,20 +47,32 @@ site:go.dev defer
 - https://go.dev/tour/welcome/1
 - ...
 
+```c++
+#include <syncstream>
 
+lock std::mutex mutex_;
+{
+    lock_guard<mutex> lock(mutex_);
+    
+    5 Clones 5 Unique cloners\
+    14 Views 1 Unique visitors
 
-5 Clones 5 Unique cloners\
-14 Views 1 Unique visitors
+    3:35 am 03/01/2023
+}
+```
 
-3:35 am 03/01/2023
+# log
 
+```sh
+echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-3:53 am 04/01/2023
+4:01 am 04/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
+ ```
  
 [status]
 
