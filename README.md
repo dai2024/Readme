@@ -13,11 +13,11 @@ can speak.\
 can talk.\
 can discuss.
 
-12 years old.
+12 years old. -40 +40
 
-Happy New Year
+[]
 
-1. I read english now.
+1. I read english now. good night.
 
 2. Phishing aleart. -> Phishing alert.
 
@@ -71,6 +71,27 @@ lock std::mutex mutex_;
 }
 ```
 
+```text
+00 00 00	-- -- - musk INT 3 (+big bang) cat +1 - micro seconds
+00 00 11	-- -- - musk INT 3 (-big bang) dog -1 - micro seconds
+
+00 01 00 	10 01
+00 10 00 	10 01
+00 11 00 	10 01
+
+01 00 00 	10 01
+01 01 00 	10 01
+01 10 00 	10 01
+01 11 00 	10 01
+
+11 00 00 	10 01
+11 01 00 	10 01
+11 10 00 	10 01
+
+11 11 00	-- -- - musk INT 3 (black hole) ? cat +1 - micro seconds
+11 11 11	-- -- - musk INT 3 (white hole) ? dog -1 - micro seconds
+```
+
 # log
 
 ```sh
@@ -78,7 +99,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-6:57 am 04/01/2023
+7:31 am 04/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
