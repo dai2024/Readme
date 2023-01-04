@@ -49,8 +49,16 @@ site:go.dev defer
 - https://go.dev/tour/welcome/1
 - ...
 
+```
+g++: error: unrecognized command line option ‘-std=c++20X’; did you mean ‘-std=c++03’?
+g++: error: unrecognized command line option ‘-std=c++20’; did you mean ‘-std=c++2a’?
+
+gcc: error: unrecognized command line option ‘-std=c++20X’; did you mean ‘-std=c++03’?
+gcc: error: unrecognized command line option ‘-std=c20X’; did you mean ‘-std=c2x’?
+```
 ```c++
 #include <syncstream>
+#include <compare>
 
 lock std::mutex mutex_;
 {
@@ -70,7 +78,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-4:01 am 04/01/2023
+6:57 am 04/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
