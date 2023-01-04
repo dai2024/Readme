@@ -57,13 +57,13 @@ site:go.dev defer
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-3:51 am 04/01/2023
+3:53 am 04/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
  
 [status]
 
-https://go.dev/blog/defer-panic-and-recover\
-https://github.com/python/peps/\
-https://peps.python.org/pep-0007/
+https://go.dev/blog/defer-panic-and-recover \
+https://github.com/python/peps/ \
+https://peps.python.org/pep-0007/ 
