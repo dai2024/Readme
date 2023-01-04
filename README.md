@@ -57,9 +57,12 @@ site:go.dev defer
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-2:31 am 04/01/2023
+2:43 am 04/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
  
 hacking test ok
+
+https://go.dev/blog/defer-panic-and-recover
+
