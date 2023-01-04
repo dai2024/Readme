@@ -1,5 +1,6 @@
 # Readme
 
+[sample link mozilla](https://www.mozilla.org/en-US/about/manifesto/)
 
 You get their facts and opinions right, and you can get to the point. \
 You can listen correctly to someone's facts and opinions, and you can get to the point.\
