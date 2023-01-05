@@ -69,12 +69,21 @@ lock std::mutex mutex_;
     14 Views 1 Unique visitors
 
     3:35 am 03/01/2023
+    
+    man: can't chmod (null): Bad address
+    man: can't unlink (null): Bad address
+
+    return git clone --mirror https://####/####.git ? 1 : 0;
 }
 ```
 
 ```text
-00 00 00	-- -- - musk INT 3 (+big bang) cat +1 - micro seconds
-00 00 11	-- -- - musk INT 3 (-big bang) dog -1 - micro seconds
+INT10
+INT13
+bit mask
+
+00 00 00	-- -- - mask INT 3 (+big bang) cat +1 - micro seconds
+00 00 11	-- -- - mask INT 3 (-big bang) dog -1 - micro seconds
 
 00 01 00 	10 01
 00 10 00 	10 01
@@ -89,8 +98,8 @@ lock std::mutex mutex_;
 11 01 00 	10 01
 11 10 00 	10 01
 
-11 11 00	-- -- - musk INT 3 (black hole) ? cat +1 - micro seconds
-11 11 11	-- -- - musk INT 3 (white hole) ? dog -1 - micro seconds
+11 11 00	-- -- - mask INT 3 (black hole) ? cat +1 - micro seconds
+11 11 11	-- -- - mask INT 3 (white hole) ? dog -1 - micro seconds
 ```
 
 # log
@@ -100,7 +109,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-1:48 am 05/01/2023
+2:34 am 05/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
