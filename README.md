@@ -113,6 +113,13 @@ NMI: Non-maskable interrupt
 11 11 11	-- -- - mask INT 3 (white hole) ? dog -1 - micro seconds
 ```
 
+> https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html
+> 
+> __asm { ... };  asm("...");
+```c
+asm volatile ("");
+```
+
 # log
 
 ```sh
@@ -120,7 +127,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-3:13 am 05/01/2023
+3:26 am 05/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
