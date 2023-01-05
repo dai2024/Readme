@@ -73,7 +73,7 @@ lock std::mutex mutex_;
     man: can't chmod (null): Bad address
     man: can't unlink (null): Bad address
 
-    return git clone --mirror https://####/####.git ? 1 : 0;
+    return git clone --mirror https://####/####.git ? 1 : git clone --bare http://####/####.git;
 }
 ```
 
@@ -109,7 +109,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-2:34 am 05/01/2023
+2:41 am 05/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
