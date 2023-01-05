@@ -57,6 +57,14 @@ g++: error: unrecognized command line option ‘-std=c++20’; did you mean ‘-
 gcc: error: unrecognized command line option ‘-std=c++20X’; did you mean ‘-std=c++03’?
 gcc: error: unrecognized command line option ‘-std=c20X’; did you mean ‘-std=c2x’?
 ```
+
+> # Using the Git repository
+> Assuming you have Git installed, you can check out the GCC sources using the following command:
+> 
+> git clone git://gcc.gnu.org/git/gcc.git SomeLocalDir
+> 
+> git://gcc.gnu.org/gcc.git/summary
+> 
 ```c++
 #include <syncstream>
 #include <compare>
@@ -109,7 +117,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-2:41 am 05/01/2023
+2:51 am 05/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
