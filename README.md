@@ -15,7 +15,7 @@ can discuss.
 
 12 years old. -40 +40
 
-[]
+# [x] It is regulated by the "unauthorized acquisition of location information, etc." law.
 
 1. I read english now. good night.
 
@@ -99,7 +99,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-7:31 am 04/01/2023
+1:44 am 05/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
