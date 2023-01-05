@@ -16,6 +16,7 @@ can discuss.
 12 years old. -40 +40
 
 # [x] It is regulated by the "unauthorized acquisition of location information, etc." law.
+- With the passing of Directive 2009/136/EC, which has come to be known as the Cookie Law, the European Parliament mandated that all countries within the EU must set up laws requiring websites to obtain informed consent before they can store or retrieve information on a visitor's computer or web-enabled device.
 
 1. I read english now. good night.
 
@@ -99,7 +100,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-1:44 am 05/01/2023
+1:48 am 05/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
