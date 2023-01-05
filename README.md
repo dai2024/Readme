@@ -91,6 +91,8 @@ INT10
 INT13
 bit mask
 
+NMI: Non-maskable interrupt
+
 00 00 00	-- -- - mask INT 3 (+big bang) cat +1 - micro seconds
 00 00 11	-- -- - mask INT 3 (-big bang) dog -1 - micro seconds
 
@@ -118,7 +120,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-2:58 am 05/01/2023
+3:13 am 05/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
