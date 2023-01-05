@@ -48,6 +48,7 @@ site:go.dev defer
 - https://developer.apple.com/swift/resources/
 - https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 - https://go.dev/tour/welcome/1
+- https://www.gitkraken.com/
 - ...
 
 ```
@@ -117,7 +118,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-2:51 am 05/01/2023
+2:58 am 05/01/2023
 
 Referring sites\
 *.com	* Views	* Unique visitors
