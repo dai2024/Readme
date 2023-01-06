@@ -1,5 +1,11 @@
 # Readme
 
+## Showing 1 changed file with 1 addition and 1 deletion.
+
+### [adopt, use, employ, hire]
+employ += 1\
+do not employ -= 1
+
 [sample link mozilla](https://www.mozilla.org/en-US/about/manifesto/)\
 [PS3 Hacker](who name?)
 
@@ -7,7 +13,7 @@ You get their facts and opinions right, and you can get to the point. \
 You can listen correctly to someone's facts and opinions, and you can get to the point.\
 You can listen correctly to other people's facts and opinions, and you can speak to the point.
 
-I am ranked lower.
+I am ranked lower. <- My teacher
 
 can speak.\
 can talk.\
@@ -15,7 +21,20 @@ can discuss.
 
 12 years old. -40 +40
 
-# [x] It is regulated by the "unauthorized acquisition of location information, etc." law.
+```go
+import time
+go func story() -> computer met {
+    // after [] years 
+    start := time.Now() 
+    //story { sleep }
+    t := time.Now()
+    return t.Sub(start)
+}()
+```
+
+This story met. [one after year]
+
+## [x] It is regulated by the "unauthorized acquisition of location information, etc." law.
 - With the passing of Directive 2009/136/EC, which has come to be known as the Cookie Law, the European Parliament mandated that all countries within the EU must set up laws requiring websites to obtain informed consent before they can store or retrieve information on a visitor's computer or web-enabled device.
 
 1. I read english now. good night.
@@ -127,7 +146,11 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-3:26 am 05/01/2023
+1:50 am 06/01/2023
+
+[time.Now()]
+[js: {Node.time}]
+@][@using BlazorApp.Data]
 
 Referring sites\
 *.com	* Views	* Unique visitors
