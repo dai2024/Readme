@@ -6,6 +6,19 @@
 employ += 1\
 do not employ -= 1
 
+### Well First
+
+Well, I sleeped. Sleep...
+```c++
+constexpr long long unsigned work_time  = 24h - [];
+```
+
+1. the task will employ 20 men. [women and ...]
+1. [They?] He is employed on a diffcult task.
+1. Cleaning the rooms employs most of [] time.  <- my
+
+--------
+
 [sample link mozilla](https://www.mozilla.org/en-US/about/manifesto/)\
 [PS3 Hacker](who name?)
 
@@ -146,7 +159,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-1:50 am 06/01/2023
+2:58 am 06/01/2023
 
 [time.Now()]
 [js: {Node.time}]
