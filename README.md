@@ -17,6 +17,8 @@ constexpr long long unsigned work_time  = 24h - [];
 1. [They?] He is employed on a diffcult task.
 1. Cleaning the rooms employs most of [] time.  <- my
 
+## Employ [] time for charity <- [one's] my
+1. Their time could be usefully employed in doing research
 --------
 
 [sample link mozilla](https://www.mozilla.org/en-US/about/manifesto/)\
@@ -159,7 +161,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-2:58 am 06/01/2023
+3:06 am 06/01/2023
 
 [time.Now()]
 [js: {Node.time}]
