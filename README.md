@@ -19,6 +19,9 @@ constexpr long long unsigned work_time  = 24h - [];
 
 ## Employ [] time for charity <- [one's] my
 1. Their time could be usefully employed in doing research
+2. I'm not very good at driving.
+
+Would you mind taking a turn driving
 --------
 
 [sample link mozilla](https://www.mozilla.org/en-US/about/manifesto/)\
@@ -161,7 +164,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-3:10 am 06/01/2023
+3:25 am 06/01/2023
 
 [time.Now()]
 [js: {Node.time}]
