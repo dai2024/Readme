@@ -1,4 +1,21 @@
 # Readme
+## Predict
+
+1. train-ing
+
+1. Battle Tendency
+
+1. Stardust Crusaders
+
+### 123
+
+ABC
+
+|  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |\
+|---|---|---|---|---|---|---|---|\
+|  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |\
+|+++|+++|+++|+++|+++|+++|+++|+++|
+
 ## abstract
 1. ... Genetic Algorithm
 - Halo
@@ -184,7 +201,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-4:57 am 06/01/2023
+7:17 am 06/01/2023
 
 [time.Now()]
 [js: {Node.time}]
