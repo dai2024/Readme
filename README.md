@@ -18,6 +18,7 @@
 1. ...
 2. blue-green algae
 3. cyanobacteria
+4. Norway tourism
 
 ## Showing 1 changed file with 1 addition and 1 deletion.
 
@@ -183,11 +184,11 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-4:39 am 06/01/2023
+4:57 am 06/01/2023
 
 [time.Now()]
 [js: {Node.time}]
-@][@using BlazorApp.Data]
+[@using BlazorApp.Data]
 
 Referring sites\
 *.com	* Views	* Unique visitors
