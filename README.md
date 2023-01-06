@@ -1,4 +1,9 @@
 # Readme
+
+## Flare Trend
+
+1. ...
+
 ## Predict
 
 1. train-ing
@@ -201,7 +206,7 @@ echo -e
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-7:17 am 06/01/2023
+7:54 am 06/01/2023
 
 [time.Now()]
 [js: {Node.time}]
