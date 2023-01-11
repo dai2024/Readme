@@ -120,6 +120,7 @@ site:go.dev defer
 - https://go.dev/tour/welcome/1
 - https://www.gitkraken.com/
 - https://www.arduino.cc
+- https://kubuntu.org
 - ...
 
 ```
@@ -198,7 +199,7 @@ echo -e \
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-11:17 am 11/01/2023
+11:44 am 11/01/2023
 
 [time.Now()]
 
