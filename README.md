@@ -31,11 +31,11 @@ ABC
                 - Nearco
                     - Pharos
                         - Phalaris         
-- You: [answer]
+- 
 - https://github.com/dai2024/museum
-- One-max [0, 0, 0, 0, 0, 0, 0, 0] -> [1, 1, 1, 1, 1, 1, 1, 1]
-- https://www.arduino.cc
-- com? compute? computer-ize [...]
+- One-max [0] -> [1]
+- 
+- compute
 
 ## Columnist and Comedy?
 1. ...
@@ -51,7 +51,6 @@ do not employ -= 1
 
 ### Well First, Well Enough
 
-Well, I sleeped. Sleep...
 ```c++
 constexpr long long unsigned work_time  = 24h - [];
 ```
@@ -68,45 +67,36 @@ Would you mind taking a turn driving
 --------
 
 [sample link mozilla](https://www.mozilla.org/en-US/about/manifesto/)\
-[PS3 Hacker](who name?)
-
-You get their facts and opinions right, and you can get to the point. \
-You can listen correctly to someone's facts and opinions, and you can get to the point.\
-You can listen correctly to other people's facts and opinions, and you can speak to the point.
-
-I am ranked lower. <- My teacher
-
-can speak.\
-can talk.\
-can discuss.
-
-12 years old. -40 +40
 
 ```go
 import time
-go func story() -> computer met {
+var ch chan int = make(chan int, 1)
+type i8 int8
+
+go func story()  {
     // after [] years 
     start := time.Now() 
-    //story { sleep }
+    for i = 0; i <= 127; i++ /* panic */ {
+    // story { sleep 5 days }
+    }
     t := time.Now()
-    return t.Sub(start)
+    ch <- t.Sub(start)
 }()
 ```
 
-This story met. [one after year]
+<- ?
 
-## [x] It is regulated by the "unauthorized acquisition of location information, etc." law.
-- With the passing of Directive 2009/136/EC, which has come to be known as the Cookie Law, the European Parliament mandated that all countries within the EU must set up laws requiring websites to obtain informed consent before they can store or retrieve information on a visitor's computer or web-enabled device.
+## [x] 
 
-1. I read english now. good night.
+1. 
 
-2. Phishing aleart. -> Phishing alert.
+2. <-alert. <-ed
 
-- review.
-- laravel begginer?
-- Oracle VM VirtualBox?
-- Vagrant?
-- Git for Windows!?
+- review
+- laravel begginer
+- Oracle VM VirtualBox
+- Vagrant
+- Git for Windows
 
 3. defer -> be turned down -> blurred, blur
 ```
@@ -129,6 +119,7 @@ site:go.dev defer
 - https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 - https://go.dev/tour/welcome/1
 - https://www.gitkraken.com/
+- https://www.arduino.cc
 - ...
 
 ```
@@ -173,8 +164,8 @@ bit mask
 
 NMI: Non-maskable interrupt
 
-00 00 00	-- -- - mask INT 3 (+big bang) cat +1 - micro seconds
-00 00 11	-- -- - mask INT 3 (-big bang) dog -1 - micro seconds
+00 00 00	-- -- - mask INT 3 (+0) cat +1 - micro seconds
+00 00 11	-- -- - mask INT 3 (-0) dog -1 - micro seconds
 
 00 01 00 	10 01
 00 10 00 	10 01
@@ -189,8 +180,8 @@ NMI: Non-maskable interrupt
 11 01 00 	10 01
 11 10 00 	10 01
 
-11 11 00	-- -- - mask INT 3 (black hole) ? cat +1 - micro seconds
-11 11 11	-- -- - mask INT 3 (white hole) ? dog -1 - micro seconds
+11 11 00	-- -- - mask INT 3 ("") ? cat +1 - micro seconds
+11 11 11	-- -- - mask INT 3 (;;) ? dog -1 - micro seconds
 ```
 
 > https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html
@@ -203,15 +194,13 @@ asm volatile ("");
 # log
 
 ```sh
-echo -e
+echo -e \
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-8:25 am 06/01/2023
+11:17 am 11/01/2023
 
 [time.Now()]
-[js: {Node.time}]
-[@using BlazorApp.Data]
 
 Referring sites\
 *.com	* Views	* Unique visitors
