@@ -37,6 +37,30 @@ ABC
 - 
 - compute
 
+## unsigned?
+
+```c
+typedef struct b {
+    unsigned int a00 : 1;
+    unsigned int a01 : 1;
+    unsigned int a02 : 1;
+    unsigned int a03 : 1;
+    unsigned int a04 : 1;
+    unsigned int a05 : 1;
+    unsigned int a06 : 1;
+    unsigned int a07 : 1;
+    unsigned int a08 : 1;
+    unsigned int a09 : 1;
+    unsigned int a10 : 1;
+    unsigned int a11 : 1;
+    unsigned int a12 : 1;
+    unsigned int a13 : 1;
+    unsigned int a14 : 1;
+    unsigned int a15 : 1;
+} B;
+
+```
+
 ## Columnist and Comedy?
 1. ...
 2. blue-green algae
@@ -199,7 +223,7 @@ echo -e \
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-4:25 am 12/01/2023
+4:36 am 12/01/2023
 
 [time.Now()]
 
