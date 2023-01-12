@@ -31,7 +31,7 @@ ABC
                 - Nearco
                     - Pharos
                         - Phalaris         
-- 
+- ```sudo snap refresh```
 - https://github.com/dai2024/museum
 - One-max [0] -> [1]
 - 
@@ -199,7 +199,7 @@ echo -e \
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-11:44 am 11/01/2023
+4:25 am 12/01/2023
 
 [time.Now()]
 
