@@ -13,9 +13,14 @@
 
 1. Stardust Crusaders
 
-### 123
+### 
+1. 1
+1. 2
+1. 3
 
-ABC
+- A
+    - B
+        - C
 
 |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |\
 |---|---|---|---|---|---|---|---|\
@@ -108,7 +113,7 @@ go func story()  {
 }()
 ```
 
-<- ?
+<- ch
 
 ## [x] 
 
@@ -155,7 +160,7 @@ gcc: error: unrecognized command line option ‘-std=c++20X’; did you mean ‘
 gcc: error: unrecognized command line option ‘-std=c20X’; did you mean ‘-std=c2x’?
 ```
 
-> # Using the Git repository
+## Using the Git repository
 > Assuming you have Git installed, you can check out the GCC sources using the following command:
 > 
 > git clone git://gcc.gnu.org/git/gcc.git SomeLocalDir
@@ -209,11 +214,11 @@ NMI: Non-maskable interrupt
 11 11 11	-- -- - mask INT 3 (;;) ? dog -1 - micro seconds
 ```
 
-> https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html
+> gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html
 > 
 > __asm { ... };  asm("...");
 ```c
-asm volatile ("");
+asm volatile ("!!");
 ```
 
 # log
@@ -223,7 +228,7 @@ echo -e \
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-4:36 am 12/01/2023
+8:07 am 12/01/2023
 
 [time.Now()]
 
