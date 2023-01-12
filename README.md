@@ -64,6 +64,9 @@ typedef struct b {
     unsigned int a15 : 1;
 } B;
 
+B.a00 = 1;
+B.a01 = 1;
+print("%02d", B);
 ```
 
 ## Columnist and Comedy?
@@ -228,7 +231,7 @@ echo -e \
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-8:07 am 12/01/2023
+8:48 am 12/01/2023
 
 [time.Now()]
 
