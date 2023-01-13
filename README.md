@@ -62,11 +62,38 @@ typedef struct b {
     unsigned int a13 : 1;
     unsigned int a14 : 1;
     unsigned int a15 : 1;
+    unsigned int a14 : 1;
+    unsigned int a15 : 1;
 } B;
 
 B.a00 = 1;
 B.a01 = 1;
 print("%02d", B);
+```
+
+```c
+typedef struct c {
+    unsigned int a00 : 1;
+    unsigned int a01 : 1;
+    unsigned int a02 : 1;
+    unsigned int a03 : 1;
+    unsigned int a04 : 1;
+    unsigned int a05 : 1;
+    unsigned int a06 : 1;
+    unsigned int a07 : 1;
+    const unsigned int c   : 1; 
+    const unsigned int z   : 1; // sxs
+} C;
+
+C c = +0;
+C k = -0;
+tmp = c ^ k;
+```
+![]()
+```c
+A = [1, 0][-1, 0] B = [1, 1]
+tmp = !tmp
+tmp = ~tmp
 ```
 
 ## Columnist and Comedy?
@@ -231,7 +258,7 @@ echo -e \
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-8:48 am 12/01/2023
+1:46 am 13/01/2023
 
 [time.Now()]
 
