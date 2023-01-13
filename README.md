@@ -187,6 +187,8 @@ site:go.dev defer
 - https://www.arduino.cc
 - https://kubuntu.org
 - ...
+- [sample link hpc-sdk](https://developer.nvidia.com/hpc-sdk)
+- ...
 
 ```
 g++: error: unrecognized command line option ‘-std=c++20X’; did you mean ‘-std=c++03’?
@@ -249,7 +251,8 @@ NMI: Non-maskable interrupt
 11 11 00	-- -- - mask INT 3 ("") ? cat +1 - micro seconds
 11 11 11	-- -- - mask INT 3 (;;) ? dog -1 - micro seconds
 ```
-
+> gcc.gnu.org/fortran/
+> 
 > gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html
 > 
 > __asm { ... };  asm("...");
@@ -264,7 +267,7 @@ echo -e \
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-3:09 am 13/01/2023
+3:19 am 13/01/2023
 
 [time.Now()]
 
