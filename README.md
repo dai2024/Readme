@@ -27,6 +27,12 @@
 |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |\
 |+++|+++|+++|+++|+++|+++|+++|+++|
 
+|  GATE KEEPER |  GOLDEN WIND  |  HELP  |
+|  ----  |  :---: |  ---:  |
+|  great  |  good |  ?  |
+|  :---  |  :---: | ---:  |
+
+
 ## abstract
 1. ... Genetic Algorithm
 - Halo
@@ -258,7 +264,7 @@ echo -e \
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-1:46 am 13/01/2023
+2:50 am 13/01/2023
 
 [time.Now()]
 
