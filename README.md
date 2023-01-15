@@ -22,14 +22,14 @@
     - B
         - C
 
-|  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |\
-|---|---|---|---|---|---|---|---|\
-|  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  <- FORTRAN  |\
+|  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |
+|  :---  |  :---  |  ----  |  ----  |  :---:  |  ---:  |  ---:  |  ---:  |
+|  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  <- FORTRAN  |
 |+++|+++|+++|+++|+++|+++|+++|+++|
 
 |  GATE KEEPER |  GOLDEN WIND  |  HELP  |
 |  ----  |  :---: |  ---:  |
-|  great  |  good |  ?  |
+|  great  |  good |  FORTRAN  |
 |  :---  |  :---: | ---:  |
 
 
@@ -48,7 +48,7 @@
 - 
 - compute
 
-## unsigned?
+## unsigned? idea
 
 ```c
 typedef struct b {
@@ -106,11 +106,11 @@ tmp = ~tmp
 1. ...
 2. blue-green algae
 3. cyanobacteria
-4. Norway tourism
+4. end
 
 ## Showing 1 changed file with 1 addition and 1 deletion.
 
-### [adopt, use, employ, hire]
+### [adopt, use, employ, hire, chop]
 employ += 1\
 do not employ -= 1
 
@@ -120,18 +120,18 @@ do not employ -= 1
 constexpr long long unsigned work_time  = 24h - [];
 ```
 
-1. the task will employ 20 men. [women and ...]
-1. [They?] He is employed on a diffcult task.
-1. Cleaning the rooms employs most of [] time.  <- my
+1. the task will employ [**] men.
+1. He is employed on a diffcult task.
+1. 50 : 50
 
-## Employ [] time for charity <- [one's] my
+## Employ [**] time for charity 
 1. Their time could be usefully employed in doing research
 2. I'm not very good at driving.
 
 Would you mind taking a turn driving
 --------
 
-[sample link mozilla](https://www.mozilla.org/en-US/about/manifesto/)\
+sample link
 
 ```go
 import time
@@ -151,7 +151,7 @@ go func story()  {
 
 <- ch
 
-## [x] 
+## [ x ] 
 
 1. 
 
@@ -187,7 +187,7 @@ site:go.dev defer
 - https://www.arduino.cc
 - https://kubuntu.org
 - ...
-- [sample link hpc-sdk](https://developer.nvidia.com/hpc-sdk)
+- hpc-sdk
 - ...
 
 ```
@@ -257,7 +257,7 @@ NMI: Non-maskable interrupt
 > 
 > __asm { ... };  asm("...");
 ```c
-asm volatile ("!!");
+asm volatile ("");
 ```
 
 # log
@@ -267,9 +267,9 @@ echo -e \
 ** Clones ** Unique cloners\
 ** Views ** Unique visitors
 
-3:19 am 13/01/2023
+6:33 am 15/01/2023
 
-[time.Now()]
+[time.Now()] <- index.html
 
 Referring sites\
 *.com	* Views	* Unique visitors
