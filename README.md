@@ -142,13 +142,13 @@ go func story()  {
 - docs.github.com/en
 
 5. leaned cost
-- neovim
-- rust
-- lua
 - 
 - 
 - 
-- kubuntu
+- 
+- 
+- 
+- ubuntu
 - ...
 - 
 - ...
