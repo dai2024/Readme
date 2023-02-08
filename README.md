@@ -1,5 +1,21 @@
 # Readme
 
+A clear and constructive evaluation is one that provides a clear and accurate picture of an individual's skills, strengths, and areas for improvement. It is written in a way that is objective, balanced, and based on specific, concrete examples of the individual's performance.
+
+Clear and constructive evaluations should:
+
+1. Focus on specific behaviors and actions, rather than generalizations or personal opinions.
+
+1. Be based on observable and measurable data, such as performance metrics, student feedback, and observations of the individual's work.
+
+1. Highlight both the individual's strengths and areas for improvement, providing specific examples and suggestions for how to improve.
+
+1. Be written in a positive and encouraging tone, focusing on helping the individual grow and develop, rather than solely on identifying weaknesses.
+
+1. Be delivered in a timely and confidential manner, allowing for the individual to receive the feedback and act on it in a constructive manner.
+
+Clear and constructive evaluations can help individuals understand their strengths and weaknesses, identify areas for growth and improvement, and set goals for the future. They can also help organizations develop a culture of continuous improvement, as employees receive regular and meaningful feedback on their performance.
+
 ### 
 1. 1
 1. 2
@@ -74,7 +90,22 @@ tmp = ~tmp
 
 ### chop
 
-do not employ -= 1
+0 == 0?
+
+"Chop" has multiple meanings and can be used as a verb or noun. Some of the most common uses of the word "chop" include:
+
+To cut into pieces: As a verb, "chop" can mean to cut food, wood, or other materials into smaller pieces using a sharp tool like a knife or an axe.
+
+Cooking technique: In cooking, "chop" can refer to a technique of cutting ingredients into small pieces, often in preparation for cooking or for use as a garnish.
+
+Music: In music, "chop" can refer to a rhythmic pattern or technique used in playing a musical instrument, particularly in genres like hip hop, funk, and jazz.
+
+Karate or martial arts: In martial arts, "chop" can refer to a type of striking motion that involves using the edge of the hand or the side of the arm to strike an opponent.
+
+To reduce or cancel: As a verb, "chop" can mean to reduce or cancel, often in the context of prices, budgets, or plans.
+
+Noun: As a noun, "chop" can refer to a small piece that has been cut, as well as the act of cutting. It can also refer to the signature mark made by a skilled tradesperson, such as a woodworker or metalworker.
+
 
 ### Well Enough
 
